@@ -6,3 +6,4 @@ Additional experience with Python, Django, Java, Spring Boot, SQL, MongoDb, Expr
 </p>  
 Currently working my way through Blockchain A-Z: Learn How To Build Your First Blockchain on Udemy.
   
+ 
