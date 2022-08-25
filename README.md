@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Chris Morton's GitHub Profile</h1>
-<p>Currently employed working with C#, Javascript, React, SQL, HTML, CSS</p>
+<p>Currently employed working with C#, Javascript, React, MongoDB, Express, Node.js, SQL, HTML, CSS</p>
 <p>Additional experience with Python, Django, Java, Spring Boot, SQL, MongoDb, Express, Nodejs</p>
 <p>Current fun project I'm working on is building an app for Big Sky Happy Tails animal rescue</p>
 <p>I also really like doing algos as I get time.</p>
