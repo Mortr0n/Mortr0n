@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Chris Morton's GitHub Profile</h1>
 <p align="center">Currently employed working with C#, Javascript, React, MongoDB, Express, Node.js, SQL, HTML, CSS</p>
-<p align="center">Additional experience with Python, Django, Java, Spring Boot, SQL, MongoDb, Express, Nodejs</p
+<p align="center">Additional experience with Python, Django, Java, Spring Boot, SQL, MongoDb, Express, Nodejs</p>
 
 <p align="center">Current fun project I'm working on is building an app for Big Sky Happy Tails animal rescue</p>
 <p align="center">I also really like doing algos as I get time.</p>
