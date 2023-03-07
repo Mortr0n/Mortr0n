@@ -3,7 +3,6 @@
 <p align="center">Currently employed working with Go, C#, Javascript, Angular, Node.js, SQL, HTML, CSS</p>
 <p align="center">Additional experience with React, Python, Django, Java, Spring Boot, SQL, MongoDb, Express, Nodejs</p>
 
-<p align="center">Current fun projects I'm working on are building an app for Big Sky Happy Tails animal rescue, and I'm currently building a Vampire Survivors clone        using unity.</p>
 
 <p align="center">
 <a href="https://app.daily.dev/Mortr0n"><img src="https://api.daily.dev/devcards/21cfad7c1e2a4162a5208a08af46b738.png?r=6ld" width="400" alt="Chris Morton's Dev Card"/></a> 
