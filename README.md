@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<a href="https://app.daily.dev/Mortr0n"><img src="https://api.daily.dev/devcards/21cfad7c1e2a4162a5208a08af46b738.png?r=6ld" width="400" alt="Chris Morton's Dev Card"/></a> 
+<a href="https://app.daily.dev/mortr0n"><img src="https://api.daily.dev/devcards/v2/edVZrJKSSb6ckxoWqVAzO.png?r=m5b" width="356" alt="Chris Morton's Dev Card"/></a>
 </p>  
 
 <!--- Git Hub Snake Game from Grid --->
