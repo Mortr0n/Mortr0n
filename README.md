@@ -1,7 +1,7 @@
    <h1 align="center">Hi, I'm Chris Morton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">I'm a full stack developer out of Montana.  I love learning new technologies and making things.  </p>
-<p align="center">Currently employed working with Go, C#, Javascript, Angular, Node.js, SQL, HTML, CSS</p>
-<p align="center">Additional experience with React, Python, Django, Java, Spring Boot, SQL, MongoDb, Express, Nodejs</p>
+<p align="center">I'm a Go backend developer and Unity Game Developer </p>
+<p align="center">Currently employed working with Go, C#, Javascript</p>
+<p align="center">I spend the rest of my time building games in Unity with C#, but I have some experience in Godot as well</p>
 
 
 <p align="center">
