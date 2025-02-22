@@ -1,6 +1,6 @@
    <h1 align="center">Hi, I'm Chris Morton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">I'm a Go backend developer and Unity Game Developer </p>
-<p align="center">Currently employed working with Go, C#, Javascript</p>
+<p align="center">Currently employed working with Go, C#, MySQL, and Javascript</p>
 <p align="center">I spend the rest of my time building games in Unity with C#, but I have some experience in Godot as well</p>
 
 
