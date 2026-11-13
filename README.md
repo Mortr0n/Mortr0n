@@ -9,6 +9,9 @@
 </p>  
 
 <!--- Git Hub Snake Game from Grid --->
-<img src="https://github.com/Mortr0n/Mortr0n/blob/output/github-contribution-grid-snake.svg" alt="Git Hub Snake Dark"/> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mortr0n/Mortr0n/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Mortr0n/Mortr0n/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+</picture> 
   
      
